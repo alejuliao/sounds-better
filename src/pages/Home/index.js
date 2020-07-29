@@ -9,6 +9,7 @@ import styled from 'styled-components';
 
 const AppWrapper = styled.div`
   background-color: var(--grayDark);
+  
 `
 
 function Home() {
